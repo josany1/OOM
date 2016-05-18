@@ -1,12 +1,12 @@
 /**
  * 
  */
-package työmaa;
+package tyÃ¶maa;
 
 /**
  * @author Josia Nyman
  *
  */
-public interface Lyövä {
-	public void lyö(Säilyketölkki s);
+public interface LyÃ¶vÃ¤ {
+	public void lyÃ¶(SÃ¤ilyketÃ¶lkki s);
 }

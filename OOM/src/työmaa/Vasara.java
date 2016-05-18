@@ -1,5 +1,5 @@
-package työmaa;
+package tyÃ¶maa;
 
-public class Vasara extends Työkalu {
+public class Vasara extends TyÃ¶kalu {
 	
 }

@@ -1,13 +1,13 @@
-package työmaa;
+package tyÃ¶maa;
 
-public class Säilyketölkki {
-	private enum Tila{EHJÄ, RUTTUINEN, MUODOTON};
+public class SÃ¤ilyketÃ¶lkki {
+	private enum Tila{EHJÃ„, RUTTUINEN, MUODOTON};
 	Tila t;
-	public Säilyketölkki() {
-		t=Tila.EHJÄ;
+	public SÃ¤ilyketÃ¶lkki() {
+		t=Tila.EHJÃ„;
 	}
-	public void lyöty(){
-		if(t==Tila.EHJÄ){
+	public void lyÃ¶ty(){
+		if(t==Tila.EHJÃ„){
 			t=Tila.RUTTUINEN;
 		}
 		else if (t==Tila.RUTTUINEN) {

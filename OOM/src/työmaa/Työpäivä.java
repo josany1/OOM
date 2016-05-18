@@ -1,13 +1,13 @@
-package työmaa;
+package tyÃ¶maa;
 
-public class Työpäivä {
+public class TyÃ¶pÃ¤ivÃ¤ {
 
 	public static void main(String[] args) {
-		Vasara höyryvasara=new Vasara();
-		Säilyketölkki ananas=new Säilyketölkki();
+		Vasara hÃ¶yryvasara=new Vasara();
+		SÃ¤ilyketÃ¶lkki ananas=new SÃ¤ilyketÃ¶lkki();
 		System.out.println(ananas.annaTila());
 		for(int i=0;i<3;i++){
-			höyryvasara.lyö(ananas);
+			hÃ¶yryvasara.lyÃ¶(ananas);
 		}
 	}
 

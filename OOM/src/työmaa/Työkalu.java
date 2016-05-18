@@ -1,19 +1,19 @@
 /**
  * 
  */
-package työmaa;
+package tyÃ¶maa;
 
 /**
  * @author Josia Nyman
  *
  */
-public abstract class Työkalu implements Lyövä {
+public abstract class TyÃ¶kalu implements LyÃ¶vÃ¤ {
 
 	@Override
-	public void lyö(Säilyketölkki a) {
+	public void lyÃ¶(SÃ¤ilyketÃ¶lkki a) {
 		// TODO Auto-generated method stub
 		System.out.println("PAM pam PAM!!!");
-		a.lyöty();
+		a.lyÃ¶ty();
 		System.out.println(a.annaTila());
 	}
 }
